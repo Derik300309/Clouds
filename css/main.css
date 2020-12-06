@@ -23,6 +23,7 @@
     position: relative;
     font-size: 12em;
     color: #5de7ff;
+    z-index: 100;
 }
 .banner .clouds
 {
